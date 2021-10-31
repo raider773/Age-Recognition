@@ -43,7 +43,7 @@ Losses and Scores
 
 
 ![image](https://user-images.githubusercontent.com/70241561/139592907-4b0db7c0-a68f-43c7-96eb-f9bac1fdf22e.png)\
-![image](https://user-images.githubusercontent.com/70241561/139592935-b96217f6-73bd-498a-b398-4c992dd02ac3.png)
+![image](https://user-images.githubusercontent.com/70241561/139592935-b96217f6-73bd-498a-b398-4c992dd02ac3.png)\
 Implementation of the learning rate decay for every 10 epochs by a factor of 10
 
 
