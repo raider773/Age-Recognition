@@ -19,32 +19,27 @@ a softmax, with X neurons, where X is the amount of bins. We multiply the softma
 ![image](https://user-images.githubusercontent.com/70241561/139592723-6366188e-0e9f-4487-a077-cd227030da9e.png)\
 ![image](https://user-images.githubusercontent.com/70241561/139592728-199218ee-4e24-4ca3-a4f6-eb0844511bcf.png)\
 Output explanation within the paper
-\
-\
+
 
 ![image](https://user-images.githubusercontent.com/70241561/139592776-27562a68-01bc-406c-b1e5-34a1175aca5a.png)\
 Comparation of MAE values with uniform or balanced bins distribution, as well as the output of neurons.(the amount of bins)
-\
-\
+
 
 ![image](https://user-images.githubusercontent.com/70241561/139592841-830daf39-d917-4ff1-b910-6bc15fd784e7.png)\
 Data Sample
-\
-\
+
 
 
 ![image](https://user-images.githubusercontent.com/70241561/139592853-05a457c6-80dc-4d54-9bf9-77ff1c26cbf7.png)\
 ![image](https://user-images.githubusercontent.com/70241561/139592863-c1cf9e31-59e8-41b2-b27e-17d984c4fe2c.png)\
 implementation of the Model
 
-\
-\
+
 
 ![image](https://user-images.githubusercontent.com/70241561/139592889-3413f504-e3c8-4747-8348-bd9ce9f0154f.png)\
 Losses and Scores
 
-\
-\
+
 
 
 ![image](https://user-images.githubusercontent.com/70241561/139592907-4b0db7c0-a68f-43c7-96eb-f9bac1fdf22e.png)\
