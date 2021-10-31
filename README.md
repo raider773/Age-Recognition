@@ -21,12 +21,15 @@ a softmax, with X neurons, where X is the amount of bins. We multiply the softma
 Output explanation within the paper
 
 
+
 ![image](https://user-images.githubusercontent.com/70241561/139592776-27562a68-01bc-406c-b1e5-34a1175aca5a.png)\
 Comparation of MAE values with uniform or balanced bins distribution, as well as the output of neurons.(the amount of bins)
 
 
+
 ![image](https://user-images.githubusercontent.com/70241561/139592841-830daf39-d917-4ff1-b910-6bc15fd784e7.png)\
 Data Sample
+
 
 
 
@@ -36,8 +39,10 @@ implementation of the Model
 
 
 
+
 ![image](https://user-images.githubusercontent.com/70241561/139592889-3413f504-e3c8-4747-8348-bd9ce9f0154f.png)\
 Losses and Scores
+
 
 
 
