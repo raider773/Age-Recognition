@@ -1,9 +1,5 @@
 https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
 
-https://medium.com/dsnet/the-1-cycle-policy-an-experiment-that-vanished-the-struggle-in-training-neural-nets-184417de23b9
-
 https://paperswithcode.com/dataset/utkface#:~:text=The%20UTKFace%20dataset%20is%20a,%2C%20occlusion%2C%20resolution%2C%20etc.
-
-https://medium.com/analytics-vidhya/write-your-own-custom-data-generator-for-tensorflow-keras-1252b64e41c3
 
 https://susanqq.github.io/UTKFace/
