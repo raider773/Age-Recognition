@@ -15,3 +15,11 @@ Basically you categorize the ages in bins (The amount of bins is treated as a hy
 a weighted distribution gives good results, so thats a good starting point. We use transfer learning, using the vgg16 model trained with imagNet dataset. The output is
 a softmax, with X neurons, where X is the amount of bins. We multiply the softmax distribution with a vector of means for each bin. This makes means with higher probability to have more weight than the others. Finally we sum the distribution multiplication with the means vector, and the sum is the predicted age for that picture.
 
+![image](https://user-images.githubusercontent.com/70241561/139592716-4d0bbd5b-c9ca-4df2-a189-e9d3e195f59f.png)
+![image](https://user-images.githubusercontent.com/70241561/139592723-6366188e-0e9f-4487-a077-cd227030da9e.png)
+![image](https://user-images.githubusercontent.com/70241561/139592728-199218ee-4e24-4ca3-a4f6-eb0844511bcf.png)
+
+Output explanation within the paper\
+
+
+
